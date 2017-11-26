@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Anthony Lagana</title>
+     <link rel="stylesheet" type="text/css" href="main.css">
+     <link rel="stylesheet" href="https://use.typekit.net/fnq1nto.css">
+
+  </head>
+
+
+  <body>
+    <div class="site">
+    <div class="main-text">
+    <h1>anthony <br>lagana<h2>
+      <br>is a <a style="color:#FF2130">student</a> at the <a href="https://hiddencityphila.org/wp-content/uploads/2017/08/HillHouse.jpg" style="color:#0096FF">university of pennsylvania</a>.
+      <div class="tab">    he is currently pursuing a degree in <a href="https://www.english.upenn.edu/" style="color: #175778">english</a>.</div>
+      <div>at school, he is a <div>
+      <div class="tab">     <a href="https://www.youtube.com/watch?v=Nj7d1ocvduk" style="color:#FC38B9">video producer</a> for <a href="http://www.thedp.com/blog/under-the-button/" style="color:#CF232">under the button dot com</a>,</div>
+      <div class="tab">     <a href="" style="color:#40F0CB">crew member</a> for <a href="http://www.maskandwig.com/" style="color:#B275C9">the mask and wig club</a>,</div>
+      <div class="tab">     and a <a href="http://writing.upenn.edu/wh/multimedia/" style="color:#FF9300">studio assistant</a> for the wexler studio at the kelly writers house.</div>
+      <div>outside of that he</div>
+      <div class="tab">      makes his own <a href="https://vimeo.com/203630289" style="color:#E25742">short films </a></div>
+      <div class="tab">      has enough prior work experience to make a c.v.</div>
+    </h1></h2>
+</div>
+</div>
+  </body>
+
+
+</html>

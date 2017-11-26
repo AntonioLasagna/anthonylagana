@@ -1,0 +1,57 @@
+html,body {
+  font-size: 36px;
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 50px;
+  font-family: "Helvetica", "Futura", sans-serif;
+  color: #404040;
+  display: inline;
+}
+
+h2{
+  font-size: 30px;
+  font-family: Helvetica;
+  font-style: bold;
+  color: #B8B8B8;
+  display: inline;
+}
+
+h3{
+  font-size: 12px;
+  font-family: helvetica;
+  color:
+}
+p{
+  line-height: 50%;
+}
+
+a{
+  font-style: normal;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+
+.site{
+  background: linear-gradient(270deg, #ffe32b, #a7a7a7);
+  background-size: 400% 400%;
+}
+.main-text {
+  height: 10rem;
+  width: 30rem;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  float: center;
+  text-align: square;
+}
+
+
+.tab {
+  margin-left: 40px;
+}
